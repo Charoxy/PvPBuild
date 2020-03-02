@@ -1,2 +1,2 @@
 # PvPBuild
-Plugin de Pvp mes avec du Build
+Instalation du plugin
